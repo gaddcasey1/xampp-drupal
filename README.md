@@ -1,2 +1,5 @@
 # xampp-drupal
-xampp settings for drupal dev
+
+**under development**
+xampp settings for drupal development
+
